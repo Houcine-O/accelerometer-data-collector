@@ -1,0 +1,7 @@
+#Thu Dec 26 19:01:03 WAT 2019
+base.0=D\:\\Downloads\\MyApplication-20191207T174818Z-001\\MyApplication-20191207T174818Z-001\\MyApplication\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\Downloads\\MyApplication-20191207T174818Z-001\\MyApplication-20191207T174818Z-001\\MyApplication\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
