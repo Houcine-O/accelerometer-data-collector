@@ -3,7 +3,6 @@ package com.example.myapplication;
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.Intent;
-import android.content.SharedPreferences;
 import android.database.Cursor;
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
@@ -18,7 +17,6 @@ import android.os.Looper;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
-import android.widget.EditText;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
@@ -50,17 +48,12 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
     double xPreviousAccel,yPreviousAccel,zPreviousAccel;
     boolean firstUpdate = true;
     double directprec,speedprec,alt ,longi,sped,dir;
+    boolean markable=false;
     MyDatabase db ;
-    EditText et;
-    private static final String PREFS = "PREFS";
-    int Interval,FastestInterval,SmallestDisplacement;
-    SharedPreferences sharedPreferences ;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        et = findViewById(R.id.editText);
-        sharedPreferences = getBaseContext().getSharedPreferences(PREFS, MODE_PRIVATE);
         db= Room.databaseBuilder(getApplicationContext(), MyDatabase.class, MyDatabase.DB_Racolt).allowMainThreadQueries().fallbackToDestructiveMigration().build();
 
 
@@ -186,12 +179,6 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
 
 
     private void buildLocationRequest() {
-        sharedPreferences
-                .edit()
-                .putInt(Interval,0)
-                .putInt(FastestInterval, 0)
-                .putInt(SmallestDisplacement, 0)
-                .apply();
         locationRequest = new LocationRequest();
         locationRequest.setPriority(LocationRequest.PRIORITY_HIGH_ACCURACY);
         locationRequest.setInterval(10);
