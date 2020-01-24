@@ -31,7 +31,6 @@
         </activity>
 
         <service android:name="com.example.myapplication.MyService" />
-        <service android:name="com.example.myapplication.ServiceFalse" />
 
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"

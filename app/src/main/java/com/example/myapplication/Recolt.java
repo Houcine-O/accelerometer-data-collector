@@ -6,7 +6,6 @@ import androidx.room.PrimaryKey;
 
 
 import java.io.Serializable;
-import java.lang.invoke.VolatileCallSite;
 
 @Entity(tableName = "recolts")
 public class Recolt implements Serializable {

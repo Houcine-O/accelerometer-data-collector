@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml:2:1-27:12
+ADDED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml:2:1-26:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\ISMAIL\.gradle\caches\transforms-2\files-2.1\906744c4ddcbc384c5a8d2d69414f8fa\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\ISMAIL\.gradle\caches\transforms-2\files-2.1\324df218547f70a8d2bfa2ca9e8e8c0f\jetified-play-services-location-15.0.1\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ISMAIL\.gradle\caches\transforms-2\files-2.1\508ac768b50158a079142e4dc4915061\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
@@ -41,20 +41,20 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.print:print:1.0.0] C:\Users\ISMAIL\.gradle\caches\transforms-2\files-2.1\d31a9dbc3f8404c541e987748c42963b\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ISMAIL\.gradle\caches\transforms-2\files-2.1\2bd63e96b82e4254cd6653dc8da764d4\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ISMAIL\.gradle\caches\transforms-2\files-2.1\699bc310780b1730bce8fe271ffeca8b\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml:2:1-26:12
 	package
 		ADDED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml:3:5-40
 		INJECTED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml
-		ADDED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml:2:1-27:12
+		ADDED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml:2:1-26:12
 		INJECTED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml
-		ADDED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml:2:1-27:12
+		ADDED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml:2:1-26:12
 		INJECTED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml:2:11-69
@@ -71,7 +71,7 @@ ADDED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-2019120
 	android:name
 		ADDED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml:7:22-78
 application
-ADDED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml:8:5-25:19
+ADDED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml:8:5-24:19
 MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\ISMAIL\.gradle\caches\transforms-2\files-2.1\324df218547f70a8d2bfa2ca9e8e8c0f\jetified-play-services-location-15.0.1\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\ISMAIL\.gradle\caches\transforms-2\files-2.1\324df218547f70a8d2bfa2ca9e8e8c0f\jetified-play-services-location-15.0.1\AndroidManifest.xml:7:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ISMAIL\.gradle\caches\transforms-2\files-2.1\508ac768b50158a079142e4dc4915061\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
@@ -120,10 +120,6 @@ service#com.example.myapplication.MyService
 ADDED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml:23:9-46
 	android:name
 		ADDED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml:23:18-43
-service#com.example.myapplication.ServiceFalse
-ADDED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml:24:9-49
-	android:name
-		ADDED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml:24:18-46
 uses-sdk
 INJECTED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\src\main\AndroidManifest.xml

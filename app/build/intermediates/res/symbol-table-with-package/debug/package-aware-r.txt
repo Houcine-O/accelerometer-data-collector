@@ -796,6 +796,7 @@ id right
 id right_icon
 id right_side
 id save
+id save2
 id screen
 id scrollIndicatorDown
 id scrollIndicatorUp

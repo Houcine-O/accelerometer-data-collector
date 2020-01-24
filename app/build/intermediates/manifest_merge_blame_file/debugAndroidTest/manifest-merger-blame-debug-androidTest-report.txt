@@ -3,35 +3,35 @@
 3    package="com.example.myapplication.test" >
 4
 5    <uses-sdk
-5-->D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7928391992953949517.xml:5:5-74
+5-->D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5444012442846759547.xml:5:5-74
 6        android:minSdkVersion="22"
-6-->D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7928391992953949517.xml:5:15-41
+6-->D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5444012442846759547.xml:5:15-41
 7        android:targetSdkVersion="29" />
-7-->D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7928391992953949517.xml:5:42-71
+7-->D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5444012442846759547.xml:5:42-71
 8
 9    <instrumentation
-9-->D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7928391992953949517.xml:11:5-15:75
+9-->D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5444012442846759547.xml:11:5-15:75
 10        android:name="androidx.test.runner.AndroidJUnitRunner"
-10-->D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7928391992953949517.xml:11:22-76
+10-->D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5444012442846759547.xml:11:22-76
 11        android:functionalTest="false"
-11-->D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7928391992953949517.xml:14:22-52
+11-->D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5444012442846759547.xml:14:22-52
 12        android:handleProfiling="false"
-12-->D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7928391992953949517.xml:13:22-53
+12-->D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5444012442846759547.xml:13:22-53
 13        android:label="Tests for com.example.myapplication"
-13-->D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7928391992953949517.xml:15:22-73
+13-->D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5444012442846759547.xml:15:22-73
 14        android:targetPackage="com.example.myapplication" />
-14-->D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7928391992953949517.xml:12:22-71
+14-->D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5444012442846759547.xml:12:22-71
 15
 16    <uses-permission android:name="android.permission.REORDER_TASKS" />
 16-->[androidx.test:core:1.1.0] C:\Users\ISMAIL\.gradle\caches\transforms-2\files-2.1\b700bfc0f9180812ac817088e66c00b6\core-1.1.0\AndroidManifest.xml:24:5-72
 16-->[androidx.test:core:1.1.0] C:\Users\ISMAIL\.gradle\caches\transforms-2\files-2.1\b700bfc0f9180812ac817088e66c00b6\core-1.1.0\AndroidManifest.xml:24:22-69
 17
 18    <application android:debuggable="true" >
-18-->D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7928391992953949517.xml:7:5-9:19
-18-->D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7928391992953949517.xml:7:18-43
+18-->D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5444012442846759547.xml:7:5-9:19
+18-->D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5444012442846759547.xml:7:18-43
 19        <uses-library android:name="android.test.runner" />
-19-->D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7928391992953949517.xml:8:9-60
-19-->D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7928391992953949517.xml:8:23-57
+19-->D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5444012442846759547.xml:8:9-60
+19-->D:\Downloads\MyApplication-20191207T174818Z-001\MyApplication-20191207T174818Z-001\MyApplication\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5444012442846759547.xml:8:23-57
 20
 21        <activity
 21-->[androidx.test:core:1.1.0] C:\Users\ISMAIL\.gradle\caches\transforms-2\files-2.1\b700bfc0f9180812ac817088e66c00b6\core-1.1.0\AndroidManifest.xml:27:9-33:20

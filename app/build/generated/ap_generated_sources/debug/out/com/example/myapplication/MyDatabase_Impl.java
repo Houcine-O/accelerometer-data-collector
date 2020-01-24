@@ -25,7 +25,7 @@ public final class MyDatabase_Impl extends MyDatabase {
 
   @Override
   protected SupportSQLiteOpenHelper createOpenHelper(DatabaseConfiguration configuration) {
-    final SupportSQLiteOpenHelper.Callback _openCallback = new RoomOpenHelper(configuration, new RoomOpenHelper.Delegate(6) {
+    final SupportSQLiteOpenHelper.Callback _openCallback = new RoomOpenHelper(configuration, new RoomOpenHelper.Delegate(8) {
       @Override
       public void createAllTables(SupportSQLiteDatabase _db) {
         _db.execSQL("CREATE TABLE IF NOT EXISTS `recolts` (`a` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `laltitude` REAL NOT NULL, `longitude` REAL NOT NULL, `speed` REAL NOT NULL, `speedAcc` REAL NOT NULL, `direction` REAL NOT NULL, `directAcc` REAL NOT NULL, `vilocity` REAL NOT NULL, `x` REAL NOT NULL, `y` REAL NOT NULL, `z` REAL NOT NULL, `mark` INTEGER NOT NULL)");
